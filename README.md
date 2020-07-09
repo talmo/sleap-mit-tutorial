@@ -36,6 +36,7 @@ network will take low resolution full frame images as input and predict the loca
 an anchor point (the fly's thorax).
 
 Follow along in this notebook to train the centroid model:
+
 <a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(centroids).ipynb" target="_blank">**SLEAP - Interactive training (centroids)** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The final predictions will look something like this:
@@ -46,6 +47,7 @@ take a cropped image of an animal centered aroudn the detected centroid from the
 previous model.
 
 Follow along in this notebook to train the part detection model:
+
 <a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(topdown).ipynb" target="_blank">**SLEAP - Interactive training (topdown)** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The final predictions will look something like this:
@@ -133,3 +135,12 @@ You should now see the predictions in the GUI:
 ![SLEAP Label GUI](https://github.com/talmo/sleap-mit-tutorial/blob/master/media/sleap-label-gui.png)
 
 Scroll around the clip, zoom in and inspect the results.
+
+
+# How do I get some more SLEAP?
+
+Ready to try SLEAP out on your own data?
+
+Check out the tutorial on our website for [getting started with labeling a new dataset](https://sleap.ai/tutorials/tutorial.html).
+
+Follow us on Twitter to get the latest on SLEAP updates and more: [![Follow me on Twitter](https://img.shields.io/twitter/follow/talmop.svg?style=social)](https://twitter.com/talmop)
