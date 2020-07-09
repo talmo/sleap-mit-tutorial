@@ -36,20 +36,20 @@ network will take low resolution full frame images as input and predict the loca
 an anchor point (the fly's thorax).
 
 Follow along in this notebook to train the centroid model:
-<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(centroids).ipynb" target="_blank">SLEAP - Interactive training (centroids) <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(centroids).ipynb" target="_blank">**SLEAP - Interactive training (centroids)** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The final predictions will look something like this:
-![Centroids model predictions](https://github.com/talmo/sleap-mit-tutorial/blob/master/media/predictions-centroids.png)
+![Centroids model predictions](https://github.com/talmo/sleap-mit-tutorial/blob/master/media/prediction-centroids.png)
 
 Great! Next, we'll train our top-down part detection model. This neural network will
 take a cropped image of an animal centered aroudn the detected centroid from the
 previous model.
 
 Follow along in this notebook to train the part detection model:
-<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(topdown).ipynb" target="_blank">SLEAP - Interactive training (topdown) <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_training_(topdown).ipynb" target="_blank">**SLEAP - Interactive training (topdown)** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The final predictions will look something like this:
-![Topdown model predictions](https://github.com/talmo/sleap-mit-tutorial/blob/master/media/predictions-topdown.png)
+![Topdown model predictions](https://github.com/talmo/sleap-mit-tutorial/blob/master/media/prediction-topdown.png)
 
 If you've run through both of these, you should have downloaded two zip files containing
 the result of the training. A copy of these data can be found below.
@@ -76,7 +76,7 @@ Once you have trained models you will be able to predict pose tracks on new data
 
 To do this, we'll again use Google Colab, so follow along in this notebook:
 
-<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_inference.ipynb" target="_blank">SLEAP - Interactive inference <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/talmo/sleap-mit-tutorial/blob/master/notebooks/Interactive_inference.ipynb" target="_blank">**SLEAP - Interactive inference** <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Great! The result should be a `predictions.slp` file containing the SLEAP project data
 that includes the predictions.
