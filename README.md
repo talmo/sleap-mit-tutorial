@@ -7,7 +7,10 @@ SLEAP is a deep learning-based framework for multi-animal pose tracking. Check o
 
 
 ## Talk: *"Computational Tutorial: Decoding Animal Behavior Through Pose Tracking"*
-**Slides:** TBA
+
+**Announcement:** [MIT BCS](http://bcs.mit.edu/news-events/events/computational-tutorial-decoding-animal-behavior-through-pose-tracking)
+
+**Slides:** [Google Slides](https://docs.google.com/presentation/d/1KTeqByttnKNqSJODPPLCn2XYXX5KOcHcPshEKBOOhGM/edit?usp=sharing)
 
 **Recording:** TBA
 
