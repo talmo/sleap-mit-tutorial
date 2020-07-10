@@ -12,7 +12,7 @@ SLEAP is a deep learning-based framework for multi-animal pose tracking. Check o
 
 **Slides:** [Google Slides](https://docs.google.com/presentation/d/1KTeqByttnKNqSJODPPLCn2XYXX5KOcHcPshEKBOOhGM/edit?usp=sharing)
 
-**Recording:** TBA
+**Recording:** [CBMM YouTube](https://cbmm.mit.edu/video/decoding-animal-behavior-through-pose-tracking)
 
 **Description:** Behavioral quantification, the problem of measuring and describing how an animal interacts with the world, has been gaining increasing attention across disciplines as new computational methods emerge to automate this task and increase the expressiveness of these descriptions. In neuroscience, understanding behavior is crucial to interpretation of the structure and function of biological neural circuits, but tools to measure what an animal is doing has lagged behind the ability to record and manipulate neural activity.
 
